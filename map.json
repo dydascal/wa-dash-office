@@ -8396,7 +8396,7 @@
          "name":"HarmonyStudioClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
@@ -8602,7 +8602,7 @@
          "name":"DangyPotsClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
@@ -8808,7 +8808,7 @@
          "name":"TheBatcaveClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
@@ -9014,7 +9014,7 @@
          "name":"MerrilWillowClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
@@ -9220,7 +9220,7 @@
          "name":"OptionsChamberClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
@@ -9426,7 +9426,7 @@
          "name":"NoDiggityDoorClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
@@ -9632,7 +9632,7 @@
          "name":"GreenoflexDoorClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
@@ -9838,7 +9838,7 @@
          "name":"LeadersThinkDoorClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
@@ -10044,7 +10044,7 @@
          "name":"FacilitatedLearningDoorClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
@@ -10250,7 +10250,7 @@
          "name":"VibratoValleyDoorClosed",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":79,
          "x":0,
          "y":0
