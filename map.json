@@ -5125,7 +5125,7 @@
                          "value":"NoDiggityDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -5244,7 +5244,7 @@
                          "value":"GreenoflexDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -5363,7 +5363,7 @@
                          "value":"LeadersThinkDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -5482,7 +5482,7 @@
                          "value":"FacilitatedLearningDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -5601,7 +5601,7 @@
                          "value":"VibratoValleyDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -5720,7 +5720,7 @@
                          "value":"OptionsChamberDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -5839,7 +5839,7 @@
                          "value":"MerrilWillowDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -5958,7 +5958,7 @@
                          "value":"TheBatcaveDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -6077,7 +6077,7 @@
                          "value":"DangyPotsDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
@@ -6196,7 +6196,7 @@
                          "value":"HarmonyStudioDoorStep"
                         }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":79,
                  "x":0,
                  "y":0
