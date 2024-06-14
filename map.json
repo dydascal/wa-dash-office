@@ -1989,11 +1989,6 @@
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Meeting-Desk"
-                        }, 
-                        {
-                         "name":"zoomMargin",
-                         "type":"string",
-                         "value":"1.0"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -8252,7 +8247,40 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":2,
+                 "id":35,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":950,
+                 "y":476
+                }, 
+                {
+                 "height":272,
+                 "id":42,
+                 "name":"MeetingDesk",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":854,
+                 "x":774,
+                 "y":168
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -9506,7 +9534,7 @@
          "y":0
         }],
  "nextlayerid":229,
- "nextobjectid":33,
+ "nextobjectid":43,
  "orientation":"orthogonal",
  "properties":[
         {
