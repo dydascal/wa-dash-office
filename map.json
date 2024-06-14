@@ -8275,7 +8275,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":854,
                  "x":774,
@@ -9570,7 +9570,7 @@
         {
          "name":"tutorial",
          "type":"bool",
-         "value":true
+         "value":false
         }],
  "renderorder":"right-down",
  "tiledversion":"1.10.2",
