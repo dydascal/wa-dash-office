@@ -1989,6 +1989,11 @@
                          "name":"meetingRoomLabel",
                          "type":"string",
                          "value":"Meeting-Desk"
+                        }, 
+                        {
+                         "name":"zoomMargin",
+                         "type":"string",
+                         "value":"1.0"
                         }],
                  "type":"tilelayer",
                  "visible":true,
