@@ -639,7 +639,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"CarnegieRoom"
+                         "value":"RightOfficeSofa"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -654,7 +654,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Carnegie Room"
+                         "value":"RightOfficeSofa"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -763,7 +763,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"MotherLeaves"
+                         "value":"LeftOfficeSofa"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -778,7 +778,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Mother Leaves"
+                         "value":"LeftOfficeSofa"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -887,7 +887,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"BlueWave"
+                         "value":"RightOffice"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -902,7 +902,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Blue Wave"
+                         "value":"RightOffice"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1011,7 +1011,7 @@
                         {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"PentaRegency"
+                         "value":"LeftOffice"
                         }, 
                         {
                          "name":"jitsiRoomAdminTag",
@@ -1026,7 +1026,7 @@
                         {
                          "name":"meetingRoomLabel",
                          "type":"string",
-                         "value":"Penta Regency"
+                         "value":"LeftOffice"
                         }],
                  "type":"tilelayer",
                  "visible":true,
